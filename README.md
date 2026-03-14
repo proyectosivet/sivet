@@ -1,6 +1,9 @@
 # SIVET - SISTEMA DE INFORMACIÓN VETERINARIA :dog:
 ## Sistema de Agendamiento de Citas - Máscol-Colombia
-
+---
+<p align="center">
+  <img src="logosivet.png" alt="SIVET Logo" width="500">
+</p>
 ---
 
 ## :warning: Planteamiento del Problema
