@@ -2,7 +2,7 @@
 ## Sistema de informacion de  Citas veterinarias- Máscol-Colombia
 ---
 <p align="center">
-  <img src="logosivet.png" alt="SIVET Logo" width="500">
+  <img src="logosicvet.png" alt="SIVET Logo" width="500">
 </p>
 ---
 
