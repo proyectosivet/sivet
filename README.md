@@ -1,4 +1,4 @@
-# SICVET - SISTEMA DE INFORMACIÓN VETERINARIA :dog:
+# SICVET - SISTEMA DE INFORMACIÓN DE CITAS VETERINARIAS :dog:
 ## Sistema de informacion de  Citas veterinarias- Máscol-Colombia
 ---
 <p align="center">
